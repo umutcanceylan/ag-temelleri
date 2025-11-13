@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Network Course",
+  "description": "An interactive web application to learn the fundamentals of networking. It breaks down course notes into sections with questions, fill-in-the-blanks, and matching exercises to test your knowledge.",
+  "requestFramePermissions": []
+}
